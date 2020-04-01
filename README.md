@@ -1,2 +1,2 @@
 # cPanel-DNS-WebUpdater
-Use your router's DDNS to update cPanel DNS subdomain IPs - Turn your cPanel into a DDNS solution
+Use your router's DDNS to update cPanel WHM DNS subdomain IPs - Turn your cPanel WHM into a DDNS solution
